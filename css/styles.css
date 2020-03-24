@@ -1,0 +1,145 @@
+body {
+	margin: 0;
+	font-family: 'EB Garamond', serif;
+	text-align: center;
+}
+
+h1 {
+	color: #d4f8e8;
+	font-family: 'Amatic SC', cursive;
+	font-size: 5rem;
+	margin: 25px auto 0 auto;
+}
+
+h2 {
+	color: #d4f8e8;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1.7rem;
+	font-weight: normal;
+}
+
+h3 {
+	color: #1eb2a6;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1.5rem;
+}
+
+a {
+	color: #1eb2a6;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	position: inline-block;
+}
+
+p {
+	font-family: 'EB Garamond', serif;
+	font-size: 20px;
+}
+
+#title {
+	font-family: 'EB Garamond', serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.top-container {
+	background-color: #1eb2a6;
+	padding-top: 50px;
+	position: relative;
+	line-height: 1.5;
+}
+
+.idea-img {
+	padding-top: 50px;
+	padding-bottom: 90px;
+}
+
+.paper-plane-img {
+	padding-bottom: 140px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.mobile-img {
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+.profile {
+	padding-top: 20px;
+}
+
+.picture {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: auto;
+	height: auto;
+}
+
+.skills {
+	background-color: #d4f8e8;
+	padding-bottom: 50px;
+}
+
+.skills > h3 {
+	padding-top: 50px;
+	font-size: 30px;
+}
+
+.skill-row {
+	line-height: 2;
+	margin: 80px auto 80px auto;
+	text-align: left;
+	width: 50%;
+}
+
+/* .skills-row, p {
+	font-size: 20px;
+} */
+
+.flutter-img {
+	float: left;
+	margin-left: -15px;
+	margin-top: -10px;
+	width: 25%;
+}
+
+.ux-img {
+	float: right;
+	margin-left: 70px;
+	width: 20%;
+}
+
+.contact-me > h1 {
+	color: #1eb2a6;
+	font-size: 50px;
+	padding-bottom: 30px;
+}
+
+.contact-me > h3 {
+	padding-top: 30px;
+	font-size: 30px;
+}
+
+.bottom-container,
+a {
+	background-color: #1eb2a6;
+	color: #d4f8e8;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #38272c;
+}
+
+.copyright {
+	color: #d4f8e8;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1rem;
+	padding-top: 15px;
+}
