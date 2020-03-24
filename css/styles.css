@@ -28,7 +28,7 @@ a {
 	color: #1eb2a6;
 	font-family: 'Cormorant Garamond', serif;
 	font-size: 20px;
-	margin-left: 30px;
+	/* margin-left: 30px; */
 	margin-right: 30px;
 	position: inline-block;
 }
